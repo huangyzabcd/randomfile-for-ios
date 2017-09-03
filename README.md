@@ -6,9 +6,9 @@
 
 
 使用方法：
-      生成随机文件
-	  python randomfile.py rootdir maxsize(in MB)
+
+	生成随机文件
+	python randomfile.py rootdir maxsize(in MB)
 	  
-	  
-	  清理生成文件
-      python randomfile.py rootdir clear
+	清理生成文件
+	python randomfile.py rootdir clear
